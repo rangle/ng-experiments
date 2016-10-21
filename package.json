@@ -1,6 +1,6 @@
 {
   "name": "ng-experiments",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Angular 2 tools for implementing UI experiments, powered by redux-experiments.",
   "main": "index.js",
   "repository": {
